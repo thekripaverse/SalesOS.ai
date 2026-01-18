@@ -1,0 +1,142 @@
+[
+    {
+        "lead_id": 101,
+        "messages": [
+            "The product looks good but pricing is high",
+            "I need my manager's approval"
+        ]
+    },
+    {
+        "lead_id": 102,
+        "messages": [
+            "We are evaluating multiple vendors",
+            "Can you share a detailed proposal?"
+        ]
+    },
+    {
+        "lead_id": 103,
+        "messages": [
+            "Currently our budget is limited",
+            "We may revisit this next quarter"
+        ]
+    },
+    {
+        "lead_id": 104,
+        "messages": [
+            "The features align with our needs",
+            "Implementation timeline is important for us"
+        ]
+    },
+    {
+        "lead_id": 105,
+        "messages": [
+            "Is there a startup discount available?",
+            "We are a small team right now"
+        ]
+    },
+    {
+        "lead_id": 106,
+        "messages": [
+            "Can this integrate with our existing tools?",
+            "Security compliance is mandatory"
+        ]
+    },
+    {
+        "lead_id": 107,
+        "messages": [
+            "Looks promising from a technical standpoint",
+            "Need approval from finance team"
+        ]
+    },
+    {
+        "lead_id": 108,
+        "messages": [
+            "Can you provide a demo recording?",
+            "My team will review it internally"
+        ]
+    },
+    {
+        "lead_id": 109,
+        "messages": [
+            "We are interested in enterprise pricing",
+            "Support SLA details would help"
+        ]
+    },
+    {
+        "lead_id": 110,
+        "messages": [
+            "We are not ready to commit yet",
+            "Please follow up after one month"
+        ]
+    },
+    {
+        "lead_id": 111,
+        "messages": [
+            "The dashboard UI is impressive",
+            "Customization options are important"
+        ]
+    },
+    {
+        "lead_id": 112,
+        "messages": [
+            "How scalable is this solution?",
+            "We expect rapid growth this year"
+        ]
+    },
+    {
+        "lead_id": 113,
+        "messages": [
+            "Pricing seems reasonable",
+            "Contract terms need clarification"
+        ]
+    },
+    {
+        "lead_id": 114,
+        "messages": [
+            "We are still in early discussion stage",
+            "Need to validate internal requirements"
+        ]
+    },
+    {
+        "lead_id": 115,
+        "messages": [
+            "Can this be deployed on-premise?",
+            "Cloud-only might be a concern"
+        ]
+    },
+    {
+        "lead_id": 116,
+        "messages": [
+            "What onboarding support do you provide?",
+            "Training for our staff is needed"
+        ]
+    },
+    {
+        "lead_id": 117,
+        "messages": [
+            "The product solves a real pain point",
+            "ROI justification is required"
+        ]
+    },
+    {
+        "lead_id": 118,
+        "messages": [
+            "Is there a free trial available?",
+            "We prefer testing before purchase"
+        ]
+    },
+    {
+        "lead_id": 119,
+        "messages": [
+            "We like the automation features",
+            "Need confirmation on data privacy"
+        ]
+    },
+    {
+        "lead_id": 120,
+        "messages": [
+            "This could fit well into our workflow",
+            "Waiting for leadership feedback"
+        ]
+    }
+]

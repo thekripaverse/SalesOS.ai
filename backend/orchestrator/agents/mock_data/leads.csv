@@ -1,0 +1,101 @@
+lead_id,name,email,role,company_id,budget_range,consent
+101,Rahul,rahul@alphatech.com,Product Manager,1,Medium,true
+102,Aditi,aditi@healthplus.com,CTO,2,High,true
+103,Ramesh,ramesh@retailnow.com,Founder,3,Low,false
+104,Sneha,sneha@finedge.com,Marketing Manager,4,Medium,true
+105,Arjun,arjun@agrogrow.com,Founder,5,Low,false
+106,Priya,priya@edusmart.com,Operations Head,6,Medium,true
+107,Vikram,vikram@greenpower.com,CTO,7,High,true
+108,Neha,neha@foodify.com,Product Lead,8,Medium,true
+109,Karan,karan@autodrive.com,Engineering Manager,9,High,true
+110,Meera,meera@medcare.com,HR Manager,10,Low,false
+111,Aman,aman@cloudnova.com,Product Manager,11,Medium,true
+112,Pooja,pooja@shopease.com,Marketing Lead,12,Medium,true
+113,Rohit,rohit@payflow.com,Finance Head,13,High,true
+114,Anita,anita@farmassist.com,Founder,14,Low,false
+115,Suresh,suresh@learnloop.com,Academic Lead,15,Medium,true
+116,Divya,divya@solarx.com,Operations Manager,16,High,true
+117,Nikhil,nikhil@tastebud.com,Brand Manager,17,Low,false
+118,Swati,swati@moveit.com,Logistics Head,18,Medium,true
+119,Deepak,deepak@wellnest.com,Product Manager,19,Medium,true
+120,Kavya,kavya@datahive.com,AI Research Lead,20,High,true
+121,Manoj,manoj@quickkart.com,Category Manager,21,Medium,true
+122,Isha,isha@securepay.com,Security Architect,22,High,true
+123,Rajesh,rajesh@agrisense.com,Founder,23,Low,false
+124,Anjali,anjali@skillup.com,Program Manager,24,Medium,true
+125,Harsh,harsh@windworks.com,Plant Head,25,High,true
+126,Naina,naina@freshbox.com,Supply Chain Lead,26,Medium,true
+127,Siddharth,siddharth@trackon.com,Tech Lead,27,High,true
+128,Rekha,rekha@lifeline.com,Hospital Admin,28,High,true
+129,Aakash,aakash@codecraft.com,ML Engineer,29,Medium,true
+130,Shalini,shalini@buymore.com,Merchandising Head,30,Medium,true
+131,Varun,varun@moneymint.com,Product Owner,31,High,true
+132,Sunita,sunita@cropcare.com,Agronomist,32,Low,false
+133,Adarsh,adarsh@studysphere.com,Course Director,33,Medium,true
+134,Pankaj,pankaj@powergrid.com,Grid Engineer,34,High,true
+135,Reema,reema@yumyard.com,Operations Lead,35,Medium,true
+136,Ajay,ajay@shipright.com,Logistics Manager,36,Medium,true
+137,Farah,farah@healwell.com,Clinical Lead,37,High,true
+138,Ritvik,ritvik@visionai.com,AI Architect,38,High,true
+139,Mohini,mohini@markethub.com,Growth Manager,39,Medium,true
+140,Sameer,sameer@trustpay.com,Risk Analyst,40,Medium,true
+141,Preeti,preeti@agrolink.com,Partnership Manager,41,Medium,true
+142,Naveen,naveen@teachtech.com,Training Head,42,Medium,true
+143,Lata,lata@suncore.com,Energy Analyst,43,High,true
+144,Dev,dev@snackspot.com,Founder,44,Low,false
+145,Priyesh,priyesh@fastmove.com,Operations Lead,45,Medium,true
+146,Tanya,tanya@careplus.com,Hospital Manager,46,High,true
+147,Omkar,omkar@neuralnet.com,Data Scientist,47,High,true
+148,Shreya,shreya@dealdash.com,Product Manager,48,Medium,true
+149,Ravi,ravi@finbridge.com,Investment Analyst,49,High,true
+150,Monika,monika@farmpro.com,Agribusiness Manager,50,Medium,true
+151,Abhishek,abhishek@learnify.com,Founder,51,Low,false
+152,Kriti,kriti@hydrogen.com,Process Engineer,52,High,true
+153,Nitin,nitin@mealmate.com,Product Owner,53,Medium,true
+154,Sonal,sonal@cargoflow.com,Supply Chain Manager,54,High,true
+155,Imran,imran@meditrack.com,Health IT Lead,55,Medium,true
+156,Pallavi,pallavi@smartai.com,AI Product Manager,56,High,true
+157,Yogesh,yogesh@shopnest.com,Ecommerce Manager,57,Medium,true
+158,Rupal,rupal@paysecure.com,Compliance Officer,58,High,true
+159,Arvind,arvind@agrofield.com,Operations Head,59,Medium,true
+160,Mitali,mitali@classcloud.com,Academic Manager,60,Medium,true
+161,Prakash,prakash@voltedge.com,Electrical Lead,61,High,true
+162,Priya,priya@foodcircle.com,Brand Strategist,62,Low,false
+163,Sachin,sachin@logimax.com,Warehouse Head,63,High,true
+164,Neetu,neetu@healthsync.com,Health Systems Lead,64,High,true
+165,Rohan,rohan@deepmindx.com,AI Researcher,65,Low,false
+166,Ankita,ankita@trendcart.com,UX Lead,66,Medium,true
+167,Mukesh,mukesh@cashflow.com,Finance Manager,67,Medium,true
+168,Leena,leena@greenfarm.com,Sustainability Lead,68,Medium,true
+169,Sanjay,sanjay@skillbridge.com,Learning Strategist,69,High,true
+170,Pavithra,pavithra@energyplus.com,Energy Consultant,70,High,true
+171,Ritesh,ritesh@bitebox.com,Operations Lead,71,Medium,true
+172,Kusuma,kusuma@movefast.com,Route Planner,72,Medium,true
+173,Vimal,vimal@lifecare.com,Medical Director,73,High,true
+174,Ananya,ananya@aiworks.com,AI Program Manager,74,High,true
+175,Kunal,kunal@buysmart.com,Category Analyst,75,Medium,true
+176,Deepika,deepika@fincore.com,Finance Director,76,High,true
+177,Suraj,suraj@agromax.com,Field Manager,77,High,true
+178,Megha,megha@learnedge.com,Content Head,78,Medium,true
+179,Arun,arun@powernova.com,Plant Operations Head,79,High,true
+180,Nisha,nisha@snackify.com,Product Marketer,80,Medium,true
+181,Pranav,pranav@shipease.com,Supply Chain Analyst,81,Medium,true
+182,Ayesha,ayesha@wellbeing.com,Wellness Program Lead,82,Medium,true
+183,Tejas,tejas@brainai.com,ML Engineer,83,High,true
+184,Punit,punit@quickbuy.com,Founder,84,Low,false
+185,Sharma,sharma@fintrust.com,Risk Manager,85,High,true
+186,Alok,alok@farmnext.com,Agriculture Advisor,86,Medium,true
+187,Ritu,ritu@studypro.com,Program Coordinator,87,Medium,true
+188,Vivek,vivek@sunvolt.com,Energy Systems Lead,88,High,true
+189,Pallav,pallav@foodlane.com,Supply Chain Head,89,Medium,true
+190,Keerthi,keerthi@logitrack.com,Logistics Analyst,90,High,true
+191,Naresh,naresh@healthcore.com,Hospital Director,91,High,true
+192,Snehal,snehal@autoai.com,Autonomous Systems Lead,92,High,true
+193,Tarun,tarun@shopquick.com,Marketplace Manager,93,Medium,true
+194,Priyanka,priyanka@moneywave.com,Finance Strategist,94,Medium,true
+195,Gopal,gopal@agrotechx.com,CTO,95,High,true
+196,Sindhu,sindhu@teachhub.com,Education Program Lead,96,Medium,true
+197,Rajiv,rajiv@greenspark.com,Renewable Projects Head,97,High,true
+198,Alisha,alisha@tastytreat.com,Food Safety Manager,98,Medium,true
+199,Harinder,harinder@fastroute.com,Transport Head,99,High,true
+200,Madhav,madhav@mediprime.com,Healthcare Ops Lead,100,High,true

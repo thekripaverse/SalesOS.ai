@@ -1,0 +1,9 @@
+langgraph
+langchain
+openai
+anthropic
+groq
+chromadb
+sqlalchemy
+python-dotenv
+pandas

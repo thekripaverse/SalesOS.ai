@@ -1,0 +1,101 @@
+company_id,company_name,industry,employee_count,funding_stage
+1,AlphaTech,SaaS,120,Series A
+2,HealthPlus,Healthcare,300,Series B
+3,RetailNow,Ecommerce,80,Seed
+4,FinEdge,FinTech,150,Series A
+5,AgroGrow,Agritech,60,Seed
+6,EduSmart,EdTech,200,Series B
+7,GreenPower,Energy,500,Series C
+8,Foodify,FoodTech,90,Seed
+9,AutoDrive,Automotive,400,Series B
+10,MedCare,Healthcare,250,Series A
+11,CloudNova,SaaS,180,Series B
+12,ShopEase,Ecommerce,130,Series A
+13,PayFlow,FinTech,220,Series C
+14,FarmAssist,Agritech,75,Seed
+15,LearnLoop,EdTech,110,Series A
+16,SolarX,Energy,350,Series B
+17,TasteBud,FoodTech,95,Seed
+18,MoveIt,Logistics,210,Series B
+19,WellNest,Healthcare,160,Series A
+20,DataHive,AI,140,Series A
+21,QuickKart,Ecommerce,190,Series B
+22,SecurePay,FinTech,260,Series C
+23,AgriSense,Agritech,85,Seed
+24,SkillUp,EdTech,170,Series B
+25,WindWorks,Energy,420,Series C
+26,FreshBox,FoodTech,125,Series A
+27,TrackOn,Logistics,230,Series B
+28,LifeLine,Healthcare,310,Series C
+29,CodeCraft,AI,90,Seed
+30,BuyMore,Ecommerce,145,Series A
+31,MoneyMint,FinTech,175,Series B
+32,CropCare,Agritech,95,Seed
+33,StudySphere,EdTech,205,Series B
+34,PowerGrid,Energy,600,Series D
+35,YumYard,FoodTech,110,Series A
+36,ShipRight,Logistics,260,Series C
+37,HealWell,Healthcare,180,Series A
+38,VisionAI,AI,155,Series A
+39,MarketHub,Ecommerce,275,Series C
+40,TrustPay,FinTech,240,Series B
+41,AgroLink,Agritech,130,Series A
+42,TeachTech,EdTech,165,Series B
+43,SunCore,Energy,390,Series B
+44,SnackSpot,FoodTech,85,Seed
+45,FastMove,Logistics,195,Series B
+46,CarePlus,Healthcare,340,Series C
+47,NeuralNet,AI,210,Series B
+48,DealDash,Ecommerce,125,Series A
+49,FinBridge,FinTech,290,Series C
+50,FarmPro,Agritech,170,Series B
+51,Learnify,EdTech,95,Seed
+52,HydroGen,Energy,450,Series C
+53,MealMate,FoodTech,140,Series A
+54,CargoFlow,Logistics,310,Series C
+55,MediTrack,Healthcare,220,Series B
+56,SmartAI,AI,180,Series A
+57,ShopNest,Ecommerce,160,Series A
+58,PaySecure,FinTech,330,Series D
+59,AgroField,Agritech,200,Series B
+60,ClassCloud,EdTech,115,Series A
+61,VoltEdge,Energy,520,Series D
+62,FoodCircle,FoodTech,100,Seed
+63,LogiMax,Logistics,275,Series C
+64,HealthSync,Healthcare,260,Series B
+65,DeepMindX,AI,95,Seed
+66,TrendCart,Ecommerce,185,Series B
+67,CashFlow,FinTech,145,Series A
+68,GreenFarm,Agritech,110,Series A
+69,SkillBridge,EdTech,225,Series C
+70,EnergyPlus,Energy,480,Series C
+71,BiteBox,FoodTech,155,Series B
+72,MoveFast,Logistics,205,Series B
+73,LifeCare,Healthcare,390,Series D
+74,AIWorks,AI,260,Series C
+75,BuySmart,Ecommerce,135,Series A
+76,FinCore,FinTech,410,Series D
+77,AgroMax,Agritech,240,Series C
+78,LearnEdge,EdTech,180,Series B
+79,PowerNova,Energy,560,Series D
+80,Snackify,FoodTech,120,Series A
+81,ShipEase,Logistics,150,Series A
+82,WellBeing,Healthcare,280,Series C
+83,BrainAI,AI,170,Series B
+84,QuickBuy,Ecommerce,95,Seed
+85,FinTrust,FinTech,360,Series C
+86,FarmNext,Agritech,155,Series B
+87,StudyPro,EdTech,130,Series A
+88,SunVolt,Energy,430,Series C
+89,FoodLane,FoodTech,165,Series B
+90,LogiTrack,Logistics,340,Series C
+91,HealthCore,Healthcare,410,Series D
+92,AutoAI,AI,290,Series C
+93,ShopQuick,Ecommerce,210,Series B
+94,MoneyWave,FinTech,185,Series B
+95,AgroTechX,Agritech,320,Series C
+96,TeachHub,EdTech,260,Series C
+97,GreenSpark,Energy,610,Series D
+98,TastyTreat,FoodTech,190,Series B
+99,FastRoute,Logistics,420,Series D
+100,MediPrime,Healthcare,500,Series D
