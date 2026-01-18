@@ -1,13 +1,7 @@
-# secrets
 .env
-*.env
-
-# python
 __pycache__/
-*.pyc
-
-# node
 node_modules/
-
-# os
+venv/
+*.log
+*.db
 .DS_Store
